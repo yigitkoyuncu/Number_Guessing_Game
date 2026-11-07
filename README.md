@@ -1,5 +1,9 @@
 # Number Guessing Game 🎯
 
+## 🎮 Play Number Guessing Game Online
+
+[▶️ Play Now](https://yigitkoyuncu.github.io/Number_Guessing_Game/)
+
 A Python number guessing game where you can guess the computer’s secret number or let the computer guess yours.
 
 ## Game Modes
